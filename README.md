@@ -2,4 +2,6 @@
 
 Welcome to the GitHub repository for the Small Devices Production department at Free Geek Vancouver. This website will provide you will all the necessary information on how to perform your duties as a volunteer in my department and more!
 
+[Check out the wiki!](https://github.com/willi552/fgvsdp/wiki)
+
 If you have any questions, just let me know by email at will(at)freegeekvancouver.org.
